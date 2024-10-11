@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect x="20" y="40" width="160" height="120" fill="#4a90e2" rx="10" ry="10"/>
+  <polygon points="100,20 130,40 70,40" fill="#f39c12"/>
+  <rect x="40" y="60" width="120" height="80" fill="white" rx="5" ry="5"/>
+  <line x1="60" y1="80" x2="140" y2="80" stroke="#34495e" stroke-width="4"/>
+  <line x1="60" y1="100" x2="140" y2="100" stroke="#34495e" stroke-width="4"/>
+  <line x1="60" y1="120" x2="140" y2="120" stroke="#34495e" stroke-width="4"/>
+  <text x="100" y="180" font-family="Arial, sans-serif" font-size="14" fill="#2c3e50" text-anchor="middle">School Management</text>
+</svg>
