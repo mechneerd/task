@@ -55,7 +55,7 @@ class StudentsController extends Controller
 
         $student['name']= $request['name'];
         $student['subject']= $request['subject'];
-        $student['marks']= $request['marks'];
+        $student['marks']= $request['marks']+$student['marks'] ;
 
         $student->save();
 
